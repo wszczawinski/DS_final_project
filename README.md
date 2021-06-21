@@ -8,16 +8,14 @@
 
 ## Basic funcionality
 
-- 
-- 
-- 
-- 
+- analysis of production data of welded structures
+- trying to create better coefficients for estimating the time needed for productions
 
 ## Install and Launch Project 🚀
 
 ```bash
 git clone https://github.com/wszczawinski/DS_final_project.git
-cd DS_fianl_project
+cd DS_final_project
 conda env create -f environment.yaml
 
 conda activate DS_project
